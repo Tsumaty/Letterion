@@ -18,7 +18,7 @@
     {"speed":25.0,"x":-19.0,"y":380.0,},
   ],
   "parent": {
-    "name": "Пути",
-    "path": "folders/Пути.yy",
+    "name": "Paths",
+    "path": "folders/Paths.yy",
   },
 }

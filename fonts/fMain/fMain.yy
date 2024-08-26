@@ -202,7 +202,7 @@
   "canGenerateBitmap": true,
   "maintainGms1Font": false,
   "parent": {
-    "name": "Шрифты",
-    "path": "folders/Шрифты.yy",
+    "name": "Fonts",
+    "path": "folders/Fonts.yy",
   },
 }
