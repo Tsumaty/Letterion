@@ -1,0 +1,2 @@
+++coinsCount;
+instance_destroy();

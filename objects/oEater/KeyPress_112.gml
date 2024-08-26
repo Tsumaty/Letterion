@@ -1,0 +1,1 @@
+show_message(string("x = {0}; y = {1}", x, y));
