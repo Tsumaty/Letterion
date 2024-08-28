@@ -8,6 +8,9 @@ if (path_position <= 0 || path_position >= 1)
         case ord("B"): curPath = pLetB; pathExists = true; break;
         case ord("C"): curPath = pLetC; pathExists = true; break;
         case ord("D"): curPath = pLetD; pathExists = true; break;
+        case ord("E"): curPath = pLetE; pathExists = true; break;
+        case ord("F"): curPath = pLetF; pathExists = true; break;
+        case ord("G"): curPath = pLetG; pathExists = true; break;
         case ord("H"): curPath = pLetH; pathExists = true; break;
         case ord("I"): curPath = pLetI; pathExists = true; break;
         case ord("J"): curPath = pLetJ; pathExists = true; break;
@@ -20,6 +23,7 @@ if (path_position <= 0 || path_position >= 1)
         case ord("T"): curPath = pLetT; pathExists = true; break;
         case ord("U"): curPath = pLetU; pathExists = true; break;
         case ord("V"): curPath = pLetV; pathExists = true; break;
+        case ord("Z"): curPath = pLetZ; pathExists = true; break;
     }
     if (pathExists)
     {
